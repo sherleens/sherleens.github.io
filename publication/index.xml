@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Homepage</title>
+    <link>https://sherleens.github.io/publication/</link>
+    <description>Recent content in Publications on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Dongyu She</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sherleens.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Weakly Supervised Coupled Networks for Visual Sentiment Analysis</title>
+      <link>https://sherleens.github.io/publication/cvpr/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sherleens.github.io/publication/cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieving and Classifying Affective Images via Deep Metric Learning</title>
+      <link>https://sherleens.github.io/publication/aaai/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sherleens.github.io/publication/aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Emotion Distribution Learning via Multi-Task Convolutional Neural Network</title>
+      <link>https://sherleens.github.io/publication/ijcai18/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sherleens.github.io/publication/ijcai18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Sentiment Prediction based on Automatic Discovery of Affective Regions</title>
+      <link>https://sherleens.github.io/publication/tmm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sherleens.github.io/publication/tmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Image Emotion Classification and Distribution Learning via Deep Convolutional Neural Network</title>
+      <link>https://sherleens.github.io/publication/ijcai/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sherleens.github.io/publication/ijcai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

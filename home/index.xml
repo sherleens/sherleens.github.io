@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Homepage</title>
+    <link>https://sherleens.github.io/home/</link>
+    <description>Recent content in Homes on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Dongyu She</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sherleens.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://sherleens.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sherleens.github.io/home/about/</guid>
+      <description>Brief Bio I am a second-year M.S. student of CV Lab in College of Computer and Control Engineering at Nankai University (NKU). I am supervised by Prof. Jufeng Yang. My research interests are primarily on computer vision and deep learning, especially visual sentiment analysis. During my research, I am very appreciate to work with Prof. Ming-Ming Cheng (Nankai University), Prof. Ming-Hsuan Yang (UC Merced), Prof. Paul L. Rosin and Prof.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://sherleens.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://sherleens.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Talk</title>
+      <link>https://sherleens.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sherleens.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sherleens.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sherleens.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
